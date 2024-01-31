@@ -1,2 +1,0 @@
-# Book
-Some Projects
