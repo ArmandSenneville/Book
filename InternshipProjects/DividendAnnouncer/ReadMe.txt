@@ -9,4 +9,10 @@ The program uses multiple libraries among which:
 - smtplib (mail protocol)
 - email multipart 
 
+The script searches for the equity tickers that the active bloomberg terminal is following,
+The script then looks for potential upcoming dividends and their value.
+
+Then every piece of information is compiled into an html table, and added to an html email, the final mail is sent to a list of receivers that the users provide.
+
+
 The script would require a bit of cleaning (separating the functions from the rest)
