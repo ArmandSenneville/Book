@@ -6,4 +6,5 @@ This is a way for me to get used to git/gitHub, as well as a way to display the 
 
 Projects:
 
--Zcasino: A very simplified version of a casino roulette game
+- Zcasino: A very simplified version of a casino roulette game
+- MailSender: simple script experimenting smtp lib
